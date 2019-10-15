@@ -1,0 +1,11 @@
+state: enabled
+email: brasky645@gmail.com
+fullname: 'Bill Brasky'
+title: Admin
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$6YK6PZQZucAGkA7cchqxROSD1GqSXLpjRym9oDkguixraxaJbWHfi
